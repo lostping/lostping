@@ -14,5 +14,3 @@ To be honest, **I know my code sucks**. But _somehow_ my stuff works for me and 
 Cheers
 
 LostPing
-
-![LostPing](https://raw.githubusercontent.com/lostping/lostping/main/lostping.png)
